@@ -1,4 +1,4 @@
-function Scooter(year,color,modol){
+function Scooterconstructor(year,color,modol){
   return{
   year,
   color,
